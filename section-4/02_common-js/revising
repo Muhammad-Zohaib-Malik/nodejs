@@ -1,0 +1,4 @@
+require 
+const sum= require('./xyz') // it contain the file path
+it has return value module.export=sum  // return the sum
+
